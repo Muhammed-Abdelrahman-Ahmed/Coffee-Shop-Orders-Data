@@ -1,6 +1,9 @@
 # Coffee-Shop-Orders-Data
 An interactive Dashboard for coffee sales from 2019 to 2022 using Excel, Power Query, and Power Pivot with UI/UX principles.
-# Coffee Sales Analysis and Dashboard
+
+### 📅 Project Timeline
+* **Development Period:** October 2026 .
+* **Note:** This project was developed locally and later migrated to GitHub .
 
 This project is an end-to-end data analysis of coffee sales, built entirely within Microsoft Excel. The goal was to take raw sales data and turn it into an interactive dashboard to track key metrics and uncover business insights.
 
